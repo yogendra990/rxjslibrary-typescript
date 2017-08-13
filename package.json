@@ -1,0 +1,19 @@
+{
+  "name": "rxjslibrary",
+  "version": "0.0.1",
+  "description": "'THIS IS A RXJS LIBRARY WITH TYPESCRIPT'",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogendra990/rxjslibrary-typescript.git"
+  },
+  "author": "'YOGENDRA ATLURI'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogendra990/rxjslibrary-typescript/issues"
+  },
+  "homepage": "https://github.com/yogendra990/rxjslibrary-typescript#readme"
+}
